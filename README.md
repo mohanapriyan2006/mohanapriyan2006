@@ -165,7 +165,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanapriyan2006&theme=tokyonight_duo" alt="mohan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohanapriyan2006&theme=tokyonight&border_radius=5" alt="mohan" /></p>
 
 
   
