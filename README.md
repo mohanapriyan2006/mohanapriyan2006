@@ -23,7 +23,6 @@
 
 <p align="center">
 	<a href="https://leetcode.com/u/Mohanapriyan_M/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<br>
 	    <a href="https://www.geeksforgeeks.org/user/mohanaprigf7g/"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
