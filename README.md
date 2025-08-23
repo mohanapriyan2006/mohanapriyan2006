@@ -211,5 +211,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/mohanapriyan2006/mohanapriyan2006/blob/main/blog/github-user-contribution.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/mohanapriyan2006/mohanapriyan2006/blob/main/github-user-contribution.svg?" alt = "Snake Game"/>
 </p>
