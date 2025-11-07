@@ -190,17 +190,17 @@
 	
 <div>
   <p align="center">
+	<a href="https://github.com/mohanapriyan2006/DSA_leetcode">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohanapriyan2006&repo=fundfast&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/mohanapriyan2006/Ai_Learning">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohanapriyan2006&repo=KrishiGo&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 	<a href="https://github.com/mohanapriyan2006/Artiction">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohanapriyan2006&repo=Artiction&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/mohanapriyan2006/Eva_ai-assistant">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohanapriyan2006&repo=Eva_ai-assistant&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/mohanapriyan2006/DSA_leetcode">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohanapriyan2006&repo=DSA_leetcode&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/mohanapriyan2006/Ai_Learning">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohanapriyan2006&repo=Ai_Learning&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
