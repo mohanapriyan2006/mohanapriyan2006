@@ -14,7 +14,7 @@
 - :computer: I am a competitive programmer at `Leetcode`, `GeeksForGeeks`, `Coding360`, `TUF`.
 - :student: I’m currently learning `Computer Science` and `Artificial intelligence and Data Science`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://mohanapriyan.netlify.app/assets/resume-DGAZqZqr.pdf).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://mohanapriyan.netlify.app/assets/resume-_40mvJJa.pdf).
 - :boom: You can visit [MY WEBSITE](https://mohanapriyan.netlify.app/).
 <br>
 
