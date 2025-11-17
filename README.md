@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABDE3&height=180&section=header&text=Mohanapriyan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&gradient=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABDE3&height=180&section=header&text=👨‍💻%20Mohanapriyan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&gradient=true"/>
 
 
 
