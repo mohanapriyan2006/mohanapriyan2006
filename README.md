@@ -219,7 +219,6 @@ const mohanapriyan = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -228,52 +227,90 @@ const mohanapriyan = {
 <tr>
 <td width="50%">
 
-### <img src="https://github.com/mohanapriyan2006/fundfast/blob/main/frontend/assets/images/logo-name.png" height=50 alt="🚀 FundFast"/>
+### <img src="https://leadsgrid.vercel.app/logo.png" height="50" alt="LeadsGrid"/> LeadsGrid AI
 
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanapriyan2006/fundfast)
+[🌐 Live Demo](https://leadsgrid.vercel.app/)  
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mohanapriyan2006/leadsGrid)
 
-A modern, secure, and feature-rich digital wallet solution for seamless money management
+AI-powered Lead Discovery, CRM & Agentic Outreach platform that helps businesses discover high-intent prospects, qualify leads, automate outreach, and accelerate revenue growth.
+
+**Tech:** React, TypeScript, FastAPI, Firestore, AI Agents, SMTP, Tailwind CSS
+
+</td>
+
+<td width="50%">
+
+### <img src="https://markdownstudio-ai.vercel.app/assets/logo-sFJN-2HP.png" height="50" alt="md studio"/> Markdown Studio AI
+
+[🌐 Live Demo](https://markdownstudio-ai.vercel.app/)  
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mohanapriyan2006/markdown-studio)
+
+AI-powered Markdown workspace featuring live preview, custom CSS styling, multi-provider AI Copilot, and one-click export to PDF, DOCX, and Markdown.
+
+**Tech:** React 19, TypeScript, Vite, CodeMirror, Tailwind CSS, AI APIs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### <img src="https://github.com/mohanapriyan2006/fundfast/blob/main/frontend/assets/images/logo-name.png" height="50" alt="FundFast"/>
+
+[🌐 Live Demo](https://fundfast.netlify.app/)  
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mohanapriyan2006/fundfast)
+
+A modern, secure, and feature-rich digital wallet solution for seamless money management.
 
 **Tech:** React Native, Spring Boot, Spring Security, MySQL, JWT
 
 </td>
+
 <td width="50%">
 
-### <img src="https://github.com/mohanapriyan2006/KrishiGo/blob/main/assets/images/logo2.png" height=50  alt="🌾 KrishiGo"/>
+### <img src="https://github.com/mohanapriyan2006/KrishiGo/blob/main/assets/images/logo2.png" height="50" alt="KrishiGo"/>
 
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanapriyan2006/KrishiGo)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mohanapriyan2006/KrishiGo)
 
+Transforming Agriculture Education Through Gamification, Empowering Young Farmers and Agricultural Enthusiasts with Interactive Learning.
 
-Transforming Agriculture Education Through Gamification, Empowering Young Farmers and Agricultural Enthusiasts with Interactive Learning
+**Tech:** React Native, Firebase, AI, NativeWind CSS, Cloudflare
 
-**Tech:**  React Native, FireBase, AI, Nativewind CSS, CloudFlare
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🎨 <img src="https://github.com/mohanapriyan2006/Artiction/blob/main/screenshots/artiction-logo.png" height=50 alt="Artiction"/>
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanapriyan2006/Artiction)
+### <img src="https://github.com/mohanapriyan2006/Artiction/blob/main/screenshots/artiction-logo.png" height="50" alt="Artiction"/>
 
-Digital art marketplace.
+[🌐 Live Demo](https://artiction.netlify.app/)  
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mohanapriyan2006/Artiction)
 
-**Tech:** React js, Spring Boot, Tailwind css, Java, Javascript, MySQL
+Digital marketplace connecting artists and buyers through a modern art commerce platform.
+
+**Tech:** React, Spring Boot, Tailwind CSS, Java, MySQL
 
 </td>
+
 <td width="50%">
 
-### <img src="https://eva-ai-assistant.vercel.app/assets/evaI-BVWq8YK6.png" height=30 alt="🤖" /> EVA AI Assistant
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanapriyan2006/Eva_ai-assistant)
+### <img src="https://github.com/mohanapriyan2006/Eva_ai-assistant/blob/main/src/assets/eva.png" height="50" alt="eva ai"/> EVA AI Assistant
 
-Voice-activated AI assistant with natural language processing capabilities.
+[🌐 Live Demo](https://eva-ai-assistant.vercel.app/)  
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mohanapriyan2006/Eva_ai-assistant)
 
-**Tech:** React js, Tailwind css, Javascript, API, AI
+Voice-enabled AI assistant with natural language understanding, conversational interactions, and productivity-focused automation.
+
+**Tech:** React, Tailwind CSS, JavaScript, AI APIs, NLP
 
 </td>
 </tr>
+
 </table>
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
