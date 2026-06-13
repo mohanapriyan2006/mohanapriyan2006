@@ -110,7 +110,7 @@ const mohanapriyan = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Tech Stack & Tools
 
-<details open>
+<details>
 <summary><b>🎨 Frontend Technologies</b></summary>
 <br>
 
@@ -127,7 +127,7 @@ const mohanapriyan = {
 
 </details>
 
-<details open>
+<details>
 <summary><b>⚙️ Backend Technologies</b></summary>
 <br>
 
@@ -138,7 +138,7 @@ const mohanapriyan = {
 
 </details>
 
-<details open>
+<details>
 <summary><b>🗄️ Database & Cloud</b></summary>
 <br>
 
@@ -152,7 +152,7 @@ const mohanapriyan = {
 
 </details>
 
-<details open>
+<details>
 <summary><b>🤖 AI/ML & Data Science</b></summary>
 <br>
 
@@ -167,7 +167,7 @@ const mohanapriyan = {
 
 </details>
 
-<details open>
+<details>
 <summary><b>🛠️ Development Tools</b></summary>
 <br>
 
@@ -182,7 +182,7 @@ const mohanapriyan = {
 
 </details>
 
-<details open>
+<details>
 <summary><b>💻 Programming Languages</b></summary>
 <br>
 
@@ -219,6 +219,7 @@ const mohanapriyan = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 ## 🌟 Featured Projects
 
 <div align="center">
